@@ -1,0 +1,20 @@
+.page-title {
+  font-size: 72px;
+/*  color: white;*/
+  padding-top: 5%;
+  padding-bottom: 5%;
+  font-family: 'Allura', cursive;
+}
+.center {
+  background-color: #6600a5;
+  background-image: url("https://embed.widencdn.net/img/source/fiipts6qxv/exact/SCO-T-2-old%20size.jpeg?u=jlnpkv&q=70");
+
+  color: white;
+  /*height:100vh;*/
+  min-height: 100%;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+.button-text {
+  color: black;
+}
